@@ -1,0 +1,74 @@
+.bg-cont {
+  background-image: linear-gradient(to top, #c3caea, #9ba9eb, #9ba9eb);
+  padding: 34px;
+}
+.pswMngLogo {
+  width: 12%;
+}
+.input-image {
+  width: 28px;
+  padding: 3px;
+  border-right: 1px solid #c3caea;
+}
+.inputImgAndBar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: #f8fafc;
+  margin: 6px;
+}
+.sec-top-cont {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #5763a5;
+  margin: 12px;
+  padding: 34px;
+  height: 40vh;
+}
+.image-1 {
+  width: 300px;
+}
+.form-ele {
+  background-color: #454f84;
+  display: flex;
+  flex-direction: column;
+
+  padding: 34px;
+}
+.input-ele {
+  border: 0px;
+  border-style: none;
+}
+.btn-cont {
+  text-align: end;
+}
+.heading {
+  font-size: 18px;
+}
+.passwords-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.passwords-search {
+  display: flex;
+  align-items: center;
+}
+.showPassword {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.line {
+  font-size: 2px;
+}
+.no-password {
+  width: 250px;
+}
+.no-password-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
